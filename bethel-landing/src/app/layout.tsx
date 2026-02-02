@@ -23,6 +23,9 @@ export const metadata = {
     "enseignements",
   ],
   author: "Bethel-Schilo",
+  icons: {
+    icon: "/bethel-logo.png",
+  },
   openGraph: {
     title: "Bethel-Schilo TPC - Votre communauté chrétienne",
     description:
